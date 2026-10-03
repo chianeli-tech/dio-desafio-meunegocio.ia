@@ -2033,4 +2033,38 @@ e fluxo completo:
 
 O produto deve parecer um **MVP real pronto para ser demonstrado a potenciais usuários**, mas permanecer deliberadamente simples para permitir validação rápida da proposta.
 
-** Ao lançar o mega prompt no Lovable, meus 5 créditos se foram. App pausado. Amanhã eu volto. **
+O que o Lovable fez, até aqui, com meus 5 créditos do dia:
+
+**Tela inicial**
+
+<img width="1664" height="808" alt="image" src="https://github.com/user-attachments/assets/d13e22d1-a73e-4d47-93d0-6c24a749044d" />
+
+**Tela de Novo Aluno**
+
+<img width="735" height="672" alt="image" src="https://github.com/user-attachments/assets/1f66c73d-99fd-4a2d-a815-1753527e9b35" />
+
+**Tela de Nova Aula**
+
+<img width="632" height="535" alt="image" src="https://github.com/user-attachments/assets/61788143-fb03-4a55-a8ee-b01bba134257" />
+
+**Tela de Registrar Pagamento**
+
+<img width="611" height="455" alt="image" src="https://github.com/user-attachments/assets/308dd9d8-2ab5-417f-9a06-2b9e7b3bb89d" />
+
+**Tela de Meus Alunos**
+
+<img width="1729" height="640" alt="image" src="https://github.com/user-attachments/assets/3893df9c-6e96-47cc-b28c-4081368ce0fa" />
+
+**Tela de Minha Agenda**
+
+<img width="1668" height="686" alt="image" src="https://github.com/user-attachments/assets/4add1150-8b5a-4d81-83b8-1d1156335504" />
+
+**Tela de Registrar Aula**
+
+<img width="1638" height="722" alt="image" src="https://github.com/user-attachments/assets/2747c78b-567e-44bf-bca7-4f70843548ee" />
+
+**Tela de Financeiro**
+
+<img width="1675" height="747" alt="image" src="https://github.com/user-attachments/assets/ebd68e90-1178-4c7c-a569-c039678db0b0" />
+
+** Meus 5 créditos se foram. App pausado. Amanhã eu volto. **
