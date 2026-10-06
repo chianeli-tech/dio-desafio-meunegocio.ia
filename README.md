@@ -2068,3 +2068,9 @@ O que o Lovable fez, até aqui, com meus 5 créditos do dia:
 <img width="1675" height="747" alt="image" src="https://github.com/user-attachments/assets/ebd68e90-1178-4c7c-a569-c039678db0b0" />
 
 ** Meus 5 créditos se foram. App pausado. Amanhã eu volto. **
+
+**Link do app publicado pelo lovable**
+
+https://easy-class-forge.lovable.app
+
+
